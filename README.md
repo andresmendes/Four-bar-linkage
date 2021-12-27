@@ -4,4 +4,7 @@ Animation of a four-bar linkage.
 
 Watch the animation on YouTube: https://youtu.be/SCTOdKqNbvg
 
-![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/34c0d09a-92fa-46ce-a0cb-d56d9feb84d4/ff897280-6acf-48b6-9012-f438e40d76af/images/1640299066.png)
+![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/34c0d09a-92fa-46ce-a0cb-d56d9feb84d4/de87eaff-7460-43e9-9c53-a8b871cbcc41/images/1640606584.png)
+
+## Reference
+Tang, C.P., 2010. Lagrangian dynamic formulation of a four-bar mechanism with minimal coordinates.
